@@ -13,7 +13,7 @@ To write an error log
 </pre>
 
 
-To write a Info log
+To write an Info log
 
 <pre>
 

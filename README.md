@@ -2,7 +2,7 @@ Loggerr
 =======
 A simple Log Util, that colors the log written to file. If viewed on terminal the logs wil be colored.
 
-You need to a folder named as log in the root directory of the site.
+You need to have a  folder named as log in the root directory of the site.
 
 To write an error log
 
